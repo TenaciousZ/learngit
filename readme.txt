@@ -4,3 +4,4 @@ Git has a mutable indes called stage.
 Git tracks chages of files.
 I like Git
 add merge
+with bug
