@@ -6,3 +6,4 @@ I like Git
 add merge
 fix bug 101 & with bug
 测试提交
+我是分支测试
